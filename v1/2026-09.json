@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-09",
+  "revision": 1,
+  "days": [
+    {
+      "date": "2026-09-12",
+      "liturgicalTitle": "Santísimo Nombre de María",
+      "biblicalReferences": ["1 Corintios 10:14-22", "Lucas 6:43-49"],
+      "keyVerse": {
+        "text": "No hay árbol bueno que dé frutos malos, ni árbol malo que dé frutos buenos.",
+        "reference": "Lucas 6:43"
+      },
+      "reflection": [
+        "Una amiga decía: tengo encima de mi mesa una pequeña planta de la que brotan también hojitas pequeñas como signo de esperanza. Son nuevas, recién estrenadas, sin las manchas o el deterioro que el tiempo causó a las que ya son adultas. Son tan bonitas como un niño recién nacido, como una esperanza de resurrección. Depende hasta en lo más mínimo de todo. Tiene un cuerpo en continua protesta y decía: muchas veces le pregunto a Dios ¿Por qué? Como Job.",
+        "Me admira y agrada mucho que en lo que ha contado habla de misterio, esperanza y resurrección, que parecen ser el verdadero resumen y espejo de su alma. Ante el misterio del dolor, yo me inclino y me quedo mudo. Daría cualquier cosa por poder darle a un enfermo las razones de lo que ocurre. Cambiaría todo lo que sé por poder levantar durante unos minutos el velo de tantas enfermedades y problemas que torturan al hombre.",
+        "Pero confieso que aún me maravilla y emociona más el misterio de esperanza humana que es un regalo de Dios para confiar en Él sobre todo en los más difíciles momentos. Yo sé, que en el caso de mi amiga, esta esperanza brota de la fe en Alguien que resucitó antes de nosotros. Pero sé también que toda esperanza es sagrada, que todo aquel que en algún rincón del mundo sabe llevar sus propios dolores, está demostrando la calidad de hombre de una llama viva que late en sus corazones. La esperanza son esas hojas nuevas de cada primavera, cada otoño y cada invierno."
+      ],
+      "psalm": {
+        "reference": "Salmo 115",
+        "response": "Señor te ofreceré con gratitud un sacrificio."
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "liturgicalTitle": "XXV Domingo Ordinario",
+      "biblicalReferences": ["Isaías 55:6-9", "Filipenses 1:20-24.27", "Mateo 20:1-16"],
+      "keyVerse": {
+        "text": "¿Es que no puedo hacer con lo mío lo que quiero? ¿O va a ser tu ojo malo (envidia) porque yo soy bueno?",
+        "reference": "Mateo 20:15"
+      },
+      "reflection": [
+        "Qué grande alegría e ilusión tendrá el hombre cuando llegue a la vejez y siente que aún es útil. Asombrosamente este siglo XXI nuestro, por un lado, “produce” más ancianos que nunca -gracias al venturoso alargamiento de la vida favorecido por la medicina-, y por otro, parecen valorarnos menos que nunca. En este siglo de idolatría de la juventud los viejos parecen estar de más. Y hay gentes que les miran como echándoles en cara el no haber tenido la delicadeza de morirse antes.",
+        "Por fortuna, no todos piensan así. Hay gentes que empiezan a descubrir que la ancianidad (que hoy llaman ya cuarta edad) es simplemente una etapa más de la vida, tiempo que hay que llenar de jugo y actividad como a cualquier otro. Vi un calendario que tenía una fotografía de un anciano y la foto la titulan “el anciano es un baúl de recuerdos”. Es cierto: el hombre empieza a disminuir el día que sus recuerdos son más que sus proyectos, el día en que empezamos a mirar más hacia el pasado que hacia el futuro, el día en que nos autoconvencemos de que nuestra tarea en el mundo ya está concluida. Es la peor jubilación de todas: la que alguien se impone a sí mismo. Un hombre está realmente vivo en la proporción de las ilusiones que mantiene despiertas.",
+        "Pero me parece que aún hay otra cosa peor en nuestro tiempo: la gente a la que le encanta la ancianidad, pero no los ancianos; los que hablan mucho de la tercera edad y no soportan al abuelo que tienen a su lado..."
+      ],
+      "psalm": {
+        "reference": "Salmo 48",
+        "response": "Bendeciré al Señor eternamente."
+      }
+    }
+  ],
+  "finalPrayers": [
+    {
+      "id": "2026-09-09_16",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-16",
+      "introduction": "Hermanos y hermanas, la palabra de Dios escuchada con abundancia, espera ser anunciada y concretizada en la vida de los cristianos. Oremos al Señor para que su Palabra no sea para nosotros motivo de condenación, sino principio de una verdadera conversión. Por eso, digámosle:",
+      "refrain": "Caminaré en la presencia del Señor.",
+      "petitions": [
+        "Señor, Tú quieres que escuchemos las exigencias morales que llevamos dentro del corazón, porque su cumplimiento es bueno para nosotros. Tú no prohíbes lo que es bueno ni obligas a lo que puede ser dañoso. Sólo quieres nuestro bien. Que nuestra fe en Ti, nos haga más lúcido y sensibles al mal que puede deshumanizar a la persona.",
+        "Señor, a veces te buscamos sólo para obtener cosas materiales e intrascendentes, y, finalmente NO nos las concedes y nos dejas con las manos vacías, nos decepcionamos de Ti porque no pudimos manipularte conforme a nuestros planes y falsas expectativas. Entonces te abandonamos, te traicionamos, y hasta tratamos de acabar contigo como si fueras una cosa y no el Ser Divino lleno de amor por nosotros. Que comprendamos que tú pasarás entre los decepcionados de sí mismos y te alejarás de quienes te buscaron no por la fe en Ti, sino sólo por curiosidad o admiración; pues Tú no te dejas atrapar en las redes de las falsas esperanzas de los hombres. Que nosotros busquemos al Señor con la sola intención de encontrarnos con Él, de entrar con Él en Alianza de amor y de escuchar su Palabra, ponerla en práctica y vivirle fieles desde hoy y para siempre."
+      ],
+      "closingPrayer": "Señor, abre nuestros oídos y corazones a tu evangelio, para que toda nuestra vida dé testimonio de tu amor. Por Jesucristo Nuestro Señor."
+    },
+    {
+      "id": "2026-09-17_24",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-24",
+      "introduction": "Hermanos y hermanas, la cruz de Cristo es escándalo y locura para los que piensan como los hombres, pero salvación y prueba suprema de amor para los que piensan como Dios. Oremos al Padre para que nos ayude a comprender el misterio de la cruz. Y digámosle:",
+      "refrain": "Escúchanos, Señor.",
+      "petitions": [
+        "Señor, mantén nuestro corazón a la escucha de tu Palabra que nos descubre realidades tan misteriosas como maravillosas, como el que tú actúas realmente en nuestras vidas para transformarlas. Que sepamos resistir ante la invitación de vivir apegados sólo a lo material de la vida, al tiempo, y descubramos cómo lo ¡Eterno ESTÁ AQUÍ!",
+        "Señor, te damos gracias por enviarnos a tu Hijo Jesús, pues él nos muestra tu Rostro como nadie. En Jesús y su encuentro con las personas enfermas nos dices que te emocionas, te compadeces y nos dices: “No llores”. Ante todos los sufridos de la tierra tienes siempre los mismos sentimientos y tu intención es siempre la misma: quieres curar a todos, quieres suprimir todas las lágrimas, porque tu opción es la Vida, porque eres el Dios de los vivos no de los muertos. Gracias, Señor. Danos la fe que nos falta para creer que eres tú todo eso para nosotros.",
+        "Señor, ¿será que Tú permites, nuestros pecados...¡para que un día se transformen en amor!? Cada uno de mis pecados, ¡qué misterio! Podría llegar a ser una ocasión de amar más a Dios: instante éste maravilloso en el que tomo conciencia de la misericordia... en el que adivino “hasta dónde” me ama Dios... Es el instante del perdón, el instante del mayor amor. Gracias, Señor."
+      ],
+      "closingPrayer": "Concédenos, Señor, aceptar con generosidad nuestras cruces de cada día para cumplir tu voluntad. Por Cristo Nuestro Señor."
+    }
+  ]
+}

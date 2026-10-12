@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-10",
+  "revision": 1,
+  "days": [
+    {
+      "date": "2026-10-07",
+      "liturgicalTitle": "Nuestra Señora del Rosario",
+      "biblicalReferences": ["Gálatas 2:1-2.7-14", "Lucas 11:1-4"],
+      "reflection": [
+        "La Madre de Dios, La Virgen María en persona, le enseñó a Sto. Domingo de Guzmán a rezar el Rosario en el año 1208 y le dijo que propagara esta devoción y la utilizara como arma poderosa en contra de los enemigos de la Fe. Cuando rezamos el Rosario correctamente y con devoción, éste nos ayuda a superar estos tres importantes problemas que surgen en la oración de petición. Sentimos cómo María nos acompaña en la oración, y nos ayuda a tener un corazón humilde y arrepentido. También la Virgen nos guía para que no pidamos caprichos o cosas inoportunas, incluso necedades.",
+        "No es sólo que María nos ayuda a pedir desde los valores del Evangelio, es que, sobre todo, allá donde Ella está, se hace presente el Espíritu de Dios. No olvidemos que la Virgen es la “llena de gracia”, la que, por medio del Espíritu de Dios, concibió a nuestro Salvador. Por eso, al orar junto a María, ella nos pone en contacto con el Espíritu Santo, que desde nuestro corazón: “...intercede por nosotros con gemidos inefables” (Rom 8,26) y “clama: ¡Abbá, Padre!” (Gal 4,6). Es decir, al rezar devotamente el Rosario, oramos en sintonía con el Espíritu Santo y, así, hacemos nuestra su oración. Una oración que asciende derecha y certeramente al Padre.",
+        "También María conoce muy bien lo que se sufre cuando las cosas no salen como nos gustaría. Ella vio morir a su inocente Hijo en la Cruz. Por eso, ella, por experiencia, sabe ayudarnos muy bien cuando nos hallamos ante una situación difícil y ante la que Dios, aparentemente, guarda silencio. En esos momentos, María nos anima a orar como su Hijo en Getsemaní, acabando cada una de nuestras súplicas con este deseo: “...pero no se haga mi voluntad, sino la tuya” (Lc 22,42). En efecto, el rezo del Rosario nos ayuda a poner nuestra vida en las sabias y misteriosas manos de Dios. Celebremos este y todos los días a nuestra Madre, rezando el Santo Rosario."
+      ]
+    }
+  ],
+  "finalPrayers": [
+    {
+      "id": "2026-10-01_08",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-08",
+      "introduction": "Hermanos y hermanas, después de haber escuchado la Palabra de Dios, que ha sido alimento para nuestra fe y sostén para nuestra esperanza, respondamos elevando al Padre nuestra oración común:",
+      "refrain": "Señor, que llegue hasta ti mi súplica.",
+      "petitions": [
+        "Señor, que nosotros te respondamos como San Francisco de Asís, a quien llamaste por el camino de la verdadera pobreza y humildad, y quien encendido en el fuego de tu amor, te bendijo en la contemplación de las obras de tus manos con cantos de júbilo y alegría.",
+        "Señor, tú que quisiste que los ángeles anunciaran tus maravillas a los hombres, haz que nosotros con su ayuda proclamemos tus grandezas ante los hombres.",
+        "Señor, tú que has dado órdenes a tus ángeles para que guarden siempre los caminos de tus hijos, haz que cuantos viajan por tierra, por mar y por aire puedan regresar con paz y alegría a sus hogares.",
+        "Señor, tú que quisiste que los ángeles anunciaran la paz a los hombres que tú amas, envía también a tus ángeles a los que gobiernan las naciones para que procuren la paz de los pueblos.",
+        "Señor, que por el anuncio del ángel nos has hecho conocer la encarnación de tu Hijo, infunde tu gracia en nosotros y concédenos, por la intercesión de la Santísima Virgen María, que podamos alcanzar, por la virtud de la pasión y de la cruz de tu Hijo Jesucristo, la gloria de su resurrección."
+      ],
+      "closingPrayer": "Oh Dios nuestro Padre, que a través de la Iglesia haces llegar a todos el mensaje de salvación, concédenos obtener ya desde esta vida los bienes prometidos, confiados en tu Palabra. Por Cristo nuestro Señor."
+    }
+  ]
+}
